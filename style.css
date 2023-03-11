@@ -47,8 +47,7 @@ h3 {
 }
 hr.dashed {
   border-top: 1px dashed;
-  margin-top: 1.1em;
-  margin-bottom: 1.1em;
+  margin: 1.1em 1.1em 1.1em 1.1em;
 }
 .note1 {
   display: inline;
@@ -97,7 +96,7 @@ summary {
 }
 .itemcontainer {
   margin: auto;
-  width: 100%;
+  width: 95%;
   text-align: center;
 }
 .navrow:after, .itemrow:after {
@@ -162,7 +161,7 @@ table.light, table.light td {
    }
    .container {
    width: 100%;
-   padding: 0 0%;
+   padding: 0%;
    margin: 0%;
    }
   .navcol, .itemcol{
