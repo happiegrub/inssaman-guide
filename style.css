@@ -161,7 +161,9 @@ table.light, table.light td {
    width: 100%;
    }
    .container {
+   width: 100%;
    padding: 0 0%;
+   margin: 0%;
    }
   .navcol, .itemcol{
     width: 100%;
