@@ -12,10 +12,8 @@ body a:hover {
   color: #D6DBDF;
 }
 .container {
-  float: left;
-  width: 1200px;
-  margin-left: 10%;
-  margin-right: 10%;
+  width: 100%;
+  margin: auto;
 }
 .banner {
   background-color: #37474F;
@@ -159,7 +157,6 @@ table.light, table.light td {
   text-align: center;
   }
 @media only screen and (max-width: 1000px) {
-  /* for small windows */
    .main {
    width: 100%;
    }
