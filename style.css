@@ -14,7 +14,8 @@ body a:hover {
 .container {
   float: left;
   width: 1200px;
-  margin: auto;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 .banner {
   background-color: #37474F;
@@ -85,14 +86,14 @@ summary {
   background-color:#F8F8F8;
   border: 1px solid white;
   float: left;
-  width: 24.5%;
+  width: 22%;
   height: 140px;
   padding: 5px;
 }
 .itemcol {
   border: 1px solid #D6DBDF;
   float: left;
-  width: 24.5%;
+  width: 22%;
   height: 150px;
   margin:  .05em;
   padding: .9em;
