@@ -13,8 +13,8 @@ body a:hover {
 }
 .container {
   float: left;
-  width: 80%;
-  padding: 0 10%;
+  width: 100%;
+  padding: 0 20%;
 }
 .banner {
   background-color: #37474F;
