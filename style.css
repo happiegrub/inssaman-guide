@@ -14,7 +14,7 @@ body a:hover {
 .container {
   float: left;
   width: 100%;
-  padding: 0 20%;
+  margin: 0;
 }
 .banner {
   background-color: #37474F;
